@@ -10,7 +10,7 @@ Ambiente de desenvolvimento Laravel com Docker
 
 **Atenção**: Você precisa instalar o Docker e logar em sua conta antes de iniciar o ambiente. Docker oferece suporte para os principais sistemas operacionais do mercado. Site oficial do Docker https://www.docker.com/get-started.
 
-###Passo a passo
+### Passo a passo
 1. Instale o Docker e certifique de estar em execução. Digite o comando docker -v no terminal.
 2. Clone o repositório tiagoandre/laravel-docker
 3. Acesse a pasta do repositório e execute o comando cp .env.example .env
